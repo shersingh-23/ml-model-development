@@ -14,8 +14,6 @@ machine learning project where the complete ML workflow is done in a single Jupy
 
 
 ## Files in this repository
-- `Task1.ipynb` – Contains the complete machine learning workflow
+- `Datasciencetask.ipynb.ipynb` – Contains the complete machine learning workflow
 - `README.md` – Project information
-- `requirements.txt` – Required Python libraries
-
 
